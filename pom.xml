@@ -73,7 +73,7 @@
 		     </configuration>  
 		    </execution>  
 		   </executions>  
-		  </plugin>   -->
+		  </plugin>    
 			   
 			   
 			   <plugin>
@@ -85,7 +85,7 @@
 				     	 <suiteXmlFile>testng.xml</suiteXmlFile>
 				     </suiteXmlFiles>
 			    </configuration>
-			   </plugin>
+			   </plugin> -->
 	  </plugins>
  </build>
 </project>
