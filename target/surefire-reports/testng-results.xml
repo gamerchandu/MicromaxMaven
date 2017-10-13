@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16896" started-at="2017-10-13T11:42:28Z" finished-at="2017-10-13T11:42:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16896" started-at="2017-10-13T11:42:28Z" finished-at="2017-10-13T11:42:45Z">
+      <class name="allClasses.RunGoogle">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:allClasses.RunGoogle@1b0375b3]" name="beforeClass" is-config="true" duration-ms="13393" started-at="2017-10-13T17:12:28Z" finished-at="2017-10-13T17:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:allClasses.RunGoogle@1b0375b3]" name="openGoogle" duration-ms="3470" started-at="2017-10-13T17:12:42Z" finished-at="2017-10-13T17:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:allClasses.RunGoogle@1b0375b3]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-10-13T17:12:45Z" finished-at="2017-10-13T17:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- allClasses.RunGoogle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

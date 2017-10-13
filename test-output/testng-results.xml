@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28080" started-at="2017-10-13T09:59:44Z" finished-at="2017-10-13T10:00:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28080" started-at="2017-10-13T09:59:44Z" finished-at="2017-10-13T10:00:12Z">
+      <class name="allClasses.RunGoogle">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:allClasses.RunGoogle@61832929]" name="beforeClass" is-config="true" duration-ms="20291" started-at="2017-10-13T15:29:44Z" finished-at="2017-10-13T15:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:allClasses.RunGoogle@61832929]" name="f" duration-ms="7762" started-at="2017-10-13T15:30:04Z" finished-at="2017-10-13T15:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:allClasses.RunGoogle@61832929]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-10-13T15:30:12Z" finished-at="2017-10-13T15:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- allClasses.RunGoogle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
